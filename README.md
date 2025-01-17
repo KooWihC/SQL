@@ -1,0 +1,2 @@
+# FLY_PCSQL
+SKT FLY AI 6기 PCSQL 취득 준비 과정
