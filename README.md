@@ -30,7 +30,7 @@
 3. [SQL 문제 풀이 사이트 비교 (리트코드,해커랭크,프로그래머스,solvesql)](https://sowhatmylifeismine.tistory.com/225)
 
 ### 코드 제출 방식
-**제출 경로**: `FLY_PCSQL/이름/problem_k.sql`
+**제출 경로**: `FLY_PCSQL/이름/Week_w_problem_k.sql`
    - *이름은 자유롭게 입력*
   
 **제출 기한**: `매주 금요일 자정`
